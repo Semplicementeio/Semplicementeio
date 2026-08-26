@@ -30,10 +30,14 @@ Most of my projects live on [**semplicemente.io**](https://semplicemente.io/), w
 
 <a href="https://semplicemente.io/">
   <img src="https://img.shields.io/badge/🌐_Website-000000?style=for-the-badge" />
-</a> 
+</a>
 
 <a href="https://github.com/Semplicementeio?tab=repositories">
-  <img src="https://img.shields.io/badge/💻_Repositories-000000?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/_Repo-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://ko-fi.com/semplicemente">
+  <img src="https://img.shields.io/badge/❤️_Sponsor-000000?style=for-the-badge" />
 </a>
 
 ---
