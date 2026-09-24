@@ -16,14 +16,20 @@ I believe in freedom, privacy, and a better web. That's why I created useful too
 ### 🚀 Some of my projects
 
 Most of my projects live on [**semplicemente.io**](https://semplicemente.io/), where you can try them directly.
-* 🐙 **[Site Blocker](https://github.com/Semplicementeio/Site-Blocker)** · A browser extension to block distracting websites.
-* 🐙 **[Private Web Monitor](https://github.com/Semplicementeio/Private-Web-Monitor)** · Monitors your web activity to understand where you spend time.
-* 🐙 **[Chunk Downloader](https://github.com/Semplicementeio/Chunk-Downloader)** · A downloader designed to work around website limitations.
-* 🔗 **[Utility Hub](https://utility.semplicemente.io/)** · A large collection of useful tools for users and developers.
-* 🔗 **[File Converter](https://converter.semplicemente.io/)** · Converts files directly in the browser without uploading them to a server.
-* 🔗 **[Earth Watch](https://earth.semplicemente.io/)** · Real-time information on earthquakes, wildfires, and volcanoes.
-* 🔗 **[Editor Suite](https://editor.semplicemente.io/)** · A complete suite with editors for frontend, Markdown, and text.
-* 🔗 **[Privacy To-Do List](https://todolist.semplicemente.io/)** · An advanced to-do list that stores data locally.
+- 🐙 [**Site Blocker**](https://github.com/Semplicementeio/Site-Blocker) A browser extension to block distracting websites.
+- 🐙 [**Private Web Monitor**](https://github.com/Semplicementeio/Private-Web-Monitor) Monitors your web activity to understand where you spend time.
+- 🐙 [**Chunk Downloader**](https://github.com/Semplicementeio/Chunk-Downloader) A downloader designed to work around website limitations.
+- 🐙 [**Genetic Algorithm**](https://github.com/Semplicementeio/Genetic-Algorithm) A type-safe, extensible genetic algorithm library for Go.
+- 🤖 [**AI Digital Clone**](https://chat.semplicemente.io/) An AI-powered chat interface that simulates a conversation with my digital clone.
+- 🤖 [**Project Cost Estimator**](https://estimator.semplicemente.io/) An intuitive tool to estimate project times and costs in a structured way.
+- 🎮 [**Games Hub**](https://games.semplicemente.io/) A portal dedicated to free 3D and .io browser games.
+- 🎮 [**NeonArena**](https://neonarena.semplicemente.io/) A 3D cyberpunk browser FPS with real-time multiplayer and smart AI bots.
+- 🎮 [**Deadblock**](https://deadblock.semplicemente.io/) A 3D voxel zombie survival game with endless waves and unlockable weapons.
+- 🔗 [**Utility Hub**](https://utility.semplicemente.io/) A large collection of useful tools for users and developers.
+- 🔗 [**File Converter**](https://converter.semplicemente.io/) Converts files directly in the browser without uploading them to a server.
+- 🔗 [**Earth Watch**](https://earth.semplicemente.io/) Real-time information on earthquakes, wildfires, and volcanoes.
+- 🔗 [**Editor Suite**](https://editor.semplicemente.io/) A complete suite with editors for frontend, Markdown, and text.
+- 🔗 [**ParticleLab**](https://particlelab.semplicemente.io/) An interactive web app to create, customize, and download animated backgrounds.
 
 ---
 
