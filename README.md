@@ -37,7 +37,7 @@ Most of my projects live on [**semplicemente.io**](https://semplicemente.io/), w
   <img src="https://img.shields.io/badge/_Repo-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://ko-fi.com/semplicemente">
+<a href="https://ko-fi.com/semplicementeio">
   <img src="https://img.shields.io/badge/❤️_Sponsor-000000?style=for-the-badge" />
 </a>
 
