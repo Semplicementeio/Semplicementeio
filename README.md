@@ -15,21 +15,24 @@ I believe in freedom, privacy, and a better web. That's why I created useful too
 
 ### 🚀 Some of my projects
 
-Most of my projects live on [**semplicemente.io**](https://semplicemente.io/), where you can try them directly.
-- 🐙 [**Site Blocker**](https://github.com/Semplicementeio/Site-Blocker) A browser extension to block distracting websites.
-- 🐙 [**Private Web Monitor**](https://github.com/Semplicementeio/Private-Web-Monitor) Monitors your web activity to understand where you spend time.
-- 🐙 [**Chunk Downloader**](https://github.com/Semplicementeio/Chunk-Downloader) A downloader designed to work around website limitations.
-- 🐙 [**Genetic Algorithm**](https://github.com/Semplicementeio/Genetic-Algorithm) A type-safe, extensible genetic algorithm library for Go.
-- 🤖 [**AI Digital Clone**](https://chat.semplicemente.io/) An AI-powered chat interface that simulates a conversation with my digital clone.
-- 🤖 [**Project Cost Estimator**](https://estimator.semplicemente.io/) An intuitive tool to estimate project times and costs in a structured way.
-- 🎮 [**Games Hub**](https://games.semplicemente.io/) A portal dedicated to free 3D and .io browser games.
-- 🎮 [**NeonArena**](https://neonarena.semplicemente.io/) A 3D cyberpunk browser FPS with real-time multiplayer and smart AI bots.
-- 🎮 [**Deadblock**](https://deadblock.semplicemente.io/) A 3D voxel zombie survival game with endless waves and unlockable weapons.
-- 🔗 [**Utility Hub**](https://utility.semplicemente.io/) A large collection of useful tools for users and developers.
-- 🔗 [**File Converter**](https://converter.semplicemente.io/) Converts files directly in the browser without uploading them to a server.
-- 🔗 [**Earth Watch**](https://earth.semplicemente.io/) Real-time information on earthquakes, wildfires, and volcanoes.
-- 🔗 [**Editor Suite**](https://editor.semplicemente.io/) A complete suite with editors for frontend, Markdown, and text.
-- 🔗 [**ParticleLab**](https://particlelab.semplicemente.io/) An interactive web app to create, customize, and download animated backgrounds.
+Most of my projects live on [**semplicemente.io**](https://semplicemente.io/), where you can explore them and try many of them directly.
+
+| | Project | Description |
+| :---: | :--- | :--- |
+| 🐙 | [**Site Blocker**](https://github.com/Semplicementeio/Site-Blocker) | Browser extension for blocking distracting websites and short-form content |
+| 🐙 | [**Private Web Monitor**](https://github.com/Semplicementeio/Private-Web-Monitor) | Local-first browser monitor for understanding where your time goes online |
+| 🐙 | [**Chunk Downloader**](https://github.com/Semplicementeio/Chunk-Downloader) | Concurrent HTTP downloader with resumable transfers, retries and integrity checks |
+| 🐙 | [**Genetic Algorithm**](https://github.com/Semplicementeio/Genetic-Algorithm) | Type-safe and extensible genetic algorithm library for Go |
+| 🐙 | [**Particle Studio**](https://github.com/Semplicementeio/Particle-Studio) | Interactive visual editor for creating and exporting animated particle effects |
+| 🤖 | [**AI Digital Clone**](https://chat.semplicemente.io/) | Personal AI clone experiment exploring my way of communicating and reasoning |
+| 🤖 | [**AI Project Cost Estimator**](https://estimator.semplicemente.io/) | AI-powered tool that turns project descriptions into initial cost and timeline estimates |
+| 🎮 | [**Games Hub**](https://games.semplicemente.io/) | Collection of browser games built while exploring game development |
+| 🎮 | [**NeonArena**](https://neonarena.semplicemente.io/) | Cyberpunk browser FPS with bots, multiplayer and fast arena combat |
+| 🎮 | [**Deadblock**](https://deadblock.semplicemente.io/) | Browser-based zombie survival FPS with wave-based combat, combos and high scores |
+| 🔗 | [**Utility Hub**](https://utility.semplicemente.io/) | Collection of browser-based tools for development and everyday technical tasks |
+| 🔗 | [**File Converter**](https://converter.semplicemente.io/) | Browser-based file converter that processes files without uploading them to a remote server |
+| 🔗 | [**Earth Monitor**](https://earth.semplicemente.io/) | Interactive map aggregating global environmental and seismic data |
+| 🔗 | [**Editor Suite**](https://editor.semplicemente.io/) | Browser-based suite of editors for frontend, Markdown and text |
 
 ---
 
