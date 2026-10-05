@@ -1,3 +1,5 @@
+![onde](https://images.semplicemente.io/onde.svg)
+
 ## 👋 Hi, I'm Luca
 
 **Full-Stack Developer** from Italy 🇮🇹, building with **privacy, automation, developer tools and AI** in mind.<br>
