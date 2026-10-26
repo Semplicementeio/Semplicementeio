@@ -9,36 +9,31 @@ I believe in **freedom, privacy, and a better web**.
 
 ---
 
-### 🧠 Philosophy
+### Philosophy
 
 I believe in freedom, privacy, and a better web. That's why I created useful tools, without ads, tracking, or profiling. Here, you don't pay with your data and you aren't treated as a product. What you find here exists to be used, period. This is my contribution to a better web.
 
 ---
 
-### 🚀 Some of my projects
+### Some of my projects
 
 Most of my projects live on [**semplicemente.io**](https://semplicemente.io/), where you can explore them and try many of them directly.
 
-| | Project | Description |
-| :---: | :--- | :--- |
-| 🐙 | [**Site Blocker**](https://github.com/Semplicementeio/Site-Blocker) | Browser extension for blocking distracting websites and short-form content |
-| 🐙 | [**Private Web Monitor**](https://github.com/Semplicementeio/Private-Web-Monitor) | Local-first browser monitor for understanding where your time goes online |
-| 🐙 | [**Chunk Downloader**](https://github.com/Semplicementeio/Chunk-Downloader) | Concurrent HTTP downloader with resumable transfers, retries and integrity checks |
-| 🐙 | [**Genetic Algorithm**](https://github.com/Semplicementeio/Genetic-Algorithm) | Type-safe and extensible genetic algorithm library for Go |
-| 🐙 | [**Particle Studio**](https://github.com/Semplicementeio/Particle-Studio) | Interactive visual editor for creating and exporting animated particle effects |
-| 🤖 | [**AI Digital Clone**](https://chat.semplicemente.io/) | Personal AI clone experiment exploring my way of communicating and reasoning |
-| 🤖 | [**AI Project Cost Estimator**](https://estimator.semplicemente.io/) | AI-powered tool that turns project descriptions into initial cost and timeline estimates |
-| 🎮 | [**Games Hub**](https://games.semplicemente.io/) | Collection of browser games built while exploring game development |
-| 🎮 | [**NeonArena**](https://neonarena.semplicemente.io/) | Cyberpunk browser FPS with bots, multiplayer and fast arena combat |
-| 🎮 | [**Deadblock**](https://deadblock.semplicemente.io/) | Browser-based zombie survival FPS with wave-based combat, combos and high scores |
-| 🔗 | [**Utility Hub**](https://utility.semplicemente.io/) | Collection of browser-based tools for development and everyday technical tasks |
-| 🔗 | [**File Converter**](https://converter.semplicemente.io/) | Browser-based file converter that processes files without uploading them to a remote server |
-| 🔗 | [**Earth Monitor**](https://earth.semplicemente.io/) | Interactive map aggregating global environmental and seismic data |
-| 🔗 | [**Editor Suite**](https://editor.semplicemente.io/) | Browser-based suite of editors for frontend, Markdown and text |
+| Project | Description |
+| :--- | :--- |
+| [**Crescita**](https://growth.semplicemente.io/) | Personal growth platform with a self-reflection quiz, a mood journal and small daily steps |
+| [**Horizon**](https://horizon.semplicemente.io/) | Real-time global index from dystopia to utopia, combining long-term indicators with the pace of the news |
+| [**Earth Monitor**](https://earth.semplicemente.io/) | Interactive globe showing earthquakes, wildfires, volcanoes and storms around the world in real time |
+| [**Site Blocker**](https://github.com/Semplicementeio/Site-Blocker)<br>[Chrome](https://chromewebstore.google.com/detail/site-blocker-time-tracker/jhjmgiemioflljijffjdnnhbbmhecgdo) · [Firefox](https://addons.mozilla.org/en-US/firefox/addon/site-blocker-time-tracker/) | Browser extension that blocks distracting sites and short-form feeds and tracks your time online |
+| [**Utility Hub**](https://utility.semplicemente.io/) | 90 tools for developers and everyday technical tasks, running entirely in your browser |
+| [**File Converter**](https://converter.semplicemente.io/) | Converts images, documents, audio and video in your browser, without uploading your files to a server |
+| [**Chunk Downloader**](https://github.com/Semplicementeio/Chunk-Downloader) | Concurrent HTTP downloader in Go with resumable transfers, retries and integrity checks |
+| [**Genetic Algorithm**](https://github.com/Semplicementeio/Genetic-Algorithm) | Type-safe, extensible genetic algorithm library for Go, built for reproducible experiments |
+
 
 ---
 
-### 🔗 Links
+### Links
 
 <a href="https://semplicemente.io/">
   <img src="https://img.shields.io/badge/🌐_Website-000000?style=for-the-badge" />
