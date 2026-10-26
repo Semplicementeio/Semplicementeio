@@ -21,7 +21,7 @@ Most of my projects live on [**semplicemente.io**](https://semplicemente.io/), w
 
 | Project | Description |
 | :--- | :--- |
-| [**Crescita**](https://growth.semplicemente.io/) | Personal growth platform with a self-reflection quiz, a mood journal and small daily steps |
+| [**Personal growth**](https://growth.semplicemente.io/) | Personal growth platform with a self-reflection quiz, a mood journal and small daily steps |
 | [**Horizon**](https://horizon.semplicemente.io/) | Real-time global index from dystopia to utopia, combining long-term indicators with the pace of the news |
 | [**Earth Monitor**](https://earth.semplicemente.io/) | Interactive globe showing earthquakes, wildfires, volcanoes and storms around the world in real time |
 | [**Site Blocker**](https://github.com/Semplicementeio/Site-Blocker)<br>[Chrome](https://chromewebstore.google.com/detail/site-blocker-time-tracker/jhjmgiemioflljijffjdnnhbbmhecgdo) · [Firefox](https://addons.mozilla.org/en-US/firefox/addon/site-blocker-time-tracker/) | Browser extension that blocks distracting sites and short-form feeds and tracks your time online |
