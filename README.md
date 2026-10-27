@@ -20,11 +20,11 @@ I believe in freedom, privacy, and a better web. That's why I created useful too
 Most of my projects live on [**semplicemente.io**](https://semplicemente.io/), where you can explore them and try many of them directly.
 
 | Project | Description |
-| :--- | :--- |
+| :---- | :--- |
+| [**Site Blocker Pro**](https://github.com/Semplicementeio/Site-Blocker)<br>[Chrome](https://chromewebstore.google.com/detail/site-blocker-time-tracker/jhjmgiemioflljijffjdnnhbbmhecgdo) · [Firefox](https://addons.mozilla.org/en-US/firefox/addon/site-blocker-time-tracker/) | Browser extension that blocks distracting sites and short-form feeds and tracks your time online |
 | [**Personal growth**](https://growth.semplicemente.io/) | Personal growth platform with a self-reflection quiz, a mood journal and small daily steps |
 | [**Horizon**](https://horizon.semplicemente.io/) | Real-time global index from dystopia to utopia, combining long-term indicators with the pace of the news |
 | [**Earth Monitor**](https://earth.semplicemente.io/) | Interactive globe showing earthquakes, wildfires, volcanoes and storms around the world in real time |
-| [**Site Blocker**](https://github.com/Semplicementeio/Site-Blocker)<br>[Chrome](https://chromewebstore.google.com/detail/site-blocker-time-tracker/jhjmgiemioflljijffjdnnhbbmhecgdo) · [Firefox](https://addons.mozilla.org/en-US/firefox/addon/site-blocker-time-tracker/) | Browser extension that blocks distracting sites and short-form feeds and tracks your time online |
 | [**Utility Hub**](https://utility.semplicemente.io/) | 89 tools for developers and everyday technical tasks, running entirely in your browser |
 | [**File Converter**](https://converter.semplicemente.io/) | Converts images, documents, audio and video in your browser, without uploading your files to a server |
 | [**Chunk Downloader**](https://github.com/Semplicementeio/Chunk-Downloader) | Concurrent HTTP downloader in Go with resumable transfers, retries and integrity checks |
